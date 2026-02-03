@@ -1,0 +1,6 @@
+canvas {
+    background-color: white; /* Fondo blanco */
+    border: 2px solid black;  /* Borde negro de 2 píxeles */
+    display: block;           /* Ayuda a centrarlo y evitar espacios raros */
+    margin: 20px auto;       /* Lo centra en la pantalla */
+}
